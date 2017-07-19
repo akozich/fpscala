@@ -7,6 +7,6 @@ lazy val root = (project in file(".")).
       scalaVersion := "2.12.1",
       version      := "0.1.0-SNAPSHOT"
     )),
-    name := "Exercise 2.1",
+    name := "Exercise 2",
     libraryDependencies += scalaTest % Test
   )
